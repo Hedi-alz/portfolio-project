@@ -52,6 +52,7 @@ p {
 .about-section-content {
   margin: 30px;
 }
+
 .hero {
   background-color: var(--secondary-color);
   text-align: center;
@@ -95,11 +96,17 @@ p {
 @media (max-width: 960px) {
   h1 {
     font-size: 44px;
-    line-height: 1.5;
+    line-height: 56px;
   }
   h2 {
     font-size: 44px;
   }
+
+  .about-section {
+    text-align: center;
+    padding: 0;
+  }
+
   .hero {
     padding: 80px 20px;
   }
