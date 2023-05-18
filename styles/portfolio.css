@@ -63,7 +63,7 @@ nav li.active a {
 }
 
 .logo {
-  max-width: 150px;
+  max-height: 40px;
 }
 
 .content-container {
@@ -154,5 +154,9 @@ nav li.active a {
   .project-description {
     padding: 0;
     text-align: center;
+  }
+
+  nav a {
+    font-size: 12px;
   }
 }
