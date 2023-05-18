@@ -35,6 +35,20 @@ p {
   line-height: 30px;
 }
 
+nav ul {
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline;
+  list-style: none;
+}
+
+.logo {
+  max-width: 150px;
+}
+
 .content-container {
   padding: 160px 20px;
 }
