@@ -75,7 +75,7 @@ footer {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .content-container h1 {
@@ -105,7 +105,7 @@ footer {
 .hero {
   background-color: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 .hero p {
   font-size: 36px;
@@ -194,9 +194,6 @@ footer .social-links a:hover {
     padding: 0;
   }
 
-  .hero {
-    padding: 80px 20px;
-  }
   .project-description {
     padding: 0;
     text-align: center;
